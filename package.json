@@ -1,0 +1,13 @@
+{
+  "name": "api-deroes",
+  "version": "1.0",
+  "description": "Mi first API",
+  "main": "server.js",
+  "author": "Andres R",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
